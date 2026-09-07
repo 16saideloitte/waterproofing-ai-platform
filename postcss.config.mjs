@@ -1,0 +1,5 @@
+# Tailwind CSS configuration
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

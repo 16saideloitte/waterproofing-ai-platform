@@ -1,35 +1,26 @@
 # Waterproofing AI Platform
 
-A production-oriented digital platform for waterproofing services, construction chemicals, testing, equipment, inspections, quotations, and AI-assisted diagnosis.
+An intelligent waterproofing platform for diagnosis, products, testing, equipment, inspections, quotations and customer workflows.
 
-## Vision
+## V1 foundation
 
-Diagnose water ingress, recommend the right investigation and treatment path, and connect customers with qualified waterproofing professionals.
+- Next.js + TypeScript application architecture
+- Premium responsive marketing website
+- Waterproofing services and solutions
+- Chemical/product catalog foundation
+- Testing and equipment catalog foundation
+- AI diagnosis entry point
+- Engineering-first information architecture
+- CI validation foundation
 
-## Planned modules
+## Product vision
 
-- Premium marketing website
-- Waterproofing systems and chemical catalog
-- Testing and diagnostics center
-- Machines and equipment catalog
-- AI waterproofing assistant
-- AI photo/symptom analyzer
-- Waterproofing calculators
-- Site inspection workflow
-- Automated technical inspection reports
-- BOQ and quotation generation
-- Customer portal
-- Engineer portal
-- Admin dashboard
-- CI/CD and cloud deployment
+> Diagnose the cause. Engineer the system. Protect the structure.
 
-## Initial technology direction
+## Planned capabilities
 
-- Next.js + TypeScript
-- Tailwind CSS
-- PostgreSQL
-- Role-based authentication
-- AI integration layer
-- Azure-ready deployment architecture
+AI-assisted leakage diagnosis, photo analysis, waterproofing calculators, site inspection reports, test-result analysis, BOQ and quotation generation, customer portal, engineer portal and operations dashboard.
 
-This repository is being built incrementally with production-quality structure, documentation, and commits.
+## Safety note
+
+AI outputs are intended as preliminary decision support. Final waterproofing specifications, diagnosis and treatment should be validated by qualified professionals and applicable project requirements.
