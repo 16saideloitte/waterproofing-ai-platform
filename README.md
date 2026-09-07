@@ -1,35 +1,27 @@
 # Waterproofing AI Platform
 
-A production-oriented digital platform for waterproofing services, construction chemicals, testing, equipment, inspections, quotations, and AI-assisted diagnosis.
+Engineering-led waterproofing, diagnostics, construction chemicals and equipment platform.
 
-## Vision
+## Stage 1
+Premium responsive marketing foundation with an AI diagnosis entry point.
 
-Diagnose water ingress, recommend the right investigation and treatment path, and connect customers with qualified waterproofing professionals.
+## Local development
 
-## Planned modules
+```bash
+npm install
+npm run dev
+```
 
-- Premium marketing website
-- Waterproofing systems and chemical catalog
-- Testing and diagnostics center
-- Machines and equipment catalog
-- AI waterproofing assistant
-- AI photo/symptom analyzer
+Open http://localhost:3000.
+
+## Roadmap
+
+- Product and chemical catalog
+- Testing and equipment library
+- AI diagnosis workflow
+- Photo analysis
 - Waterproofing calculators
-- Site inspection workflow
-- Automated technical inspection reports
-- BOQ and quotation generation
-- Customer portal
-- Engineer portal
+- Inspection reports and BOQ
+- Customer and engineer portals
 - Admin dashboard
-- CI/CD and cloud deployment
-
-## Initial technology direction
-
-- Next.js + TypeScript
-- Tailwind CSS
-- PostgreSQL
-- Role-based authentication
-- AI integration layer
-- Azure-ready deployment architecture
-
-This repository is being built incrementally with production-quality structure, documentation, and commits.
+- Production deployment
